@@ -2,11 +2,7 @@
 
 A simple CLI to **upload**, **download**, and **list files** (e.g., images) from **Amazon S3**, written in [Go](https://golang.org) using the AWS SDK v2.
 
----
-
 ![Go](https://img.shields.io/badge/Go-1.20%2B-blue.svg) ![AWS SDK v2](https://img.shields.io/badge/AWS%20SDK-v2-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
----
 
 ## 🚀 Features
 
@@ -15,8 +11,6 @@ A simple CLI to **upload**, **download**, and **list files** (e.g., images) from
 -   📃 List objects in a bucket
 -   🔒 Uses AWS credentials via environment or `~/.aws/credentials`
 -   🧱 Modular structure (`cmd/` + `storage/`)
-
----
 
 ## 📦 Installation
 
