@@ -52,3 +52,4 @@ docker-compose.override.yml
 # --- Infra ----
 .terraform
 .terraform.*
+terraform.*
