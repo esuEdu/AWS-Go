@@ -48,3 +48,7 @@ coverage/
 # --- Docker-related (if using) ---
 docker-compose.override.yml
 .docker/
+
+# --- Infra ----
+.terraform
+.terraform.*
